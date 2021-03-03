@@ -1,0 +1,49 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "project_name": "Random Quote Genorator",
+        "description": "An app that displays random quotes",
+        "technologies": ["5 cups of flour", "1 1/2 cups of sugar", "1 packet of yeast", "1 teaspoon of salt", "1/2 cup of milk", "1/2 cup of water", "3/4 cup of butter", "2 eggs", "1 1/2 tablespoons of ground cinnamon"],
+        "live_link": ["Combine flour, sugar, yeast and salt in bowl", "Heat water, milk, and butter until very warm", "Stir in flour mixture and eggs", "Knead dough until smooth", "Cover and let rest for 10 minutes", "Roll out dough", "Sprinkle with sugar and cinnamon", "Roll up tightly and pinch seams to seal", "Cut into 15 pieces", "Place on baking pan", "Cover and let sit for 30 minutes", "Preheat oven to 375 degrees", "Bake for 30 minutes"],
+        "github_link": "link",
+        "image_urls": "https://cdn.pixabay.com/photo/2016/05/26/16/27/baking-1417494_960_720.jpg"
+      },
+      {
+        "id": 2,
+        "project_name": "Cinnamon Rolls",
+        "description": "The best homemade cinnamon rolls ever!",
+        "technologies": ["5 cups of flour", "1 1/2 cups of sugar", "1 packet of yeast", "1 teaspoon of salt", "1/2 cup of milk", "1/2 cup of water", "3/4 cup of butter", "2 eggs", "1 1/2 tablespoons of ground cinnamon"],
+        "live_link": ["Combine flour, sugar, yeast and salt in bowl", "Heat water, milk, and butter until very warm", "Stir in flour mixture and eggs", "Knead dough until smooth", "Cover and let rest for 10 minutes", "Roll out dough", "Sprinkle with sugar and cinnamon", "Roll up tightly and pinch seams to seal", "Cut into 15 pieces", "Place on baking pan", "Cover and let sit for 30 minutes", "Preheat oven to 375 degrees", "Bake for 30 minutes"],
+        "github_link": "link",
+        "image_urls": "https://cdn.pixabay.com/photo/2016/05/26/16/27/baking-1417494_960_720.jpg"
+      },
+      {
+        "id": 3,
+        "project_name": "Cinnamon Rolls",
+        "description": "The best homemade cinnamon rolls ever!",
+        "technologies": ["5 cups of flour", "1 1/2 cups of sugar", "1 packet of yeast", "1 teaspoon of salt", "1/2 cup of milk", "1/2 cup of water", "3/4 cup of butter", "2 eggs", "1 1/2 tablespoons of ground cinnamon"],
+        "live_link": ["Combine flour, sugar, yeast and salt in bowl", "Heat water, milk, and butter until very warm", "Stir in flour mixture and eggs", "Knead dough until smooth", "Cover and let rest for 10 minutes", "Roll out dough", "Sprinkle with sugar and cinnamon", "Roll up tightly and pinch seams to seal", "Cut into 15 pieces", "Place on baking pan", "Cover and let sit for 30 minutes", "Preheat oven to 375 degrees", "Bake for 30 minutes"],
+        "github_link": "link",
+        "image_urls": "https://cdn.pixabay.com/photo/2016/05/26/16/27/baking-1417494_960_720.jpg"
+      },
+      {
+        "id": 4,
+        "project_name": "Cinnamon Rolls",
+        "description": "The best homemade cinnamon rolls ever!",
+        "technologies": ["5 cups of flour", "1 1/2 cups of sugar", "1 packet of yeast", "1 teaspoon of salt", "1/2 cup of milk", "1/2 cup of water", "3/4 cup of butter", "2 eggs", "1 1/2 tablespoons of ground cinnamon"],
+        "live_link": ["Combine flour, sugar, yeast and salt in bowl", "Heat water, milk, and butter until very warm", "Stir in flour mixture and eggs", "Knead dough until smooth", "Cover and let rest for 10 minutes", "Roll out dough", "Sprinkle with sugar and cinnamon", "Roll up tightly and pinch seams to seal", "Cut into 15 pieces", "Place on baking pan", "Cover and let sit for 30 minutes", "Preheat oven to 375 degrees", "Bake for 30 minutes"],
+        "github_link": "link",
+        "image_urls": "https://cdn.pixabay.com/photo/2016/05/26/16/27/baking-1417494_960_720.jpg"
+      },
+      {
+        "id": 5,
+        "project_name": "Cinnamon Rolls",
+        "description": "The best homemade cinnamon rolls ever!",
+        "technologies": ["5 cups of flour", "1 1/2 cups of sugar", "1 packet of yeast", "1 teaspoon of salt", "1/2 cup of milk", "1/2 cup of water", "3/4 cup of butter", "2 eggs", "1 1/2 tablespoons of ground cinnamon"],
+        "live_link": ["Combine flour, sugar, yeast and salt in bowl", "Heat water, milk, and butter until very warm", "Stir in flour mixture and eggs", "Knead dough until smooth", "Cover and let rest for 10 minutes", "Roll out dough", "Sprinkle with sugar and cinnamon", "Roll up tightly and pinch seams to seal", "Cut into 15 pieces", "Place on baking pan", "Cover and let sit for 30 minutes", "Preheat oven to 375 degrees", "Bake for 30 minutes"],
+        "github_link": "link",
+        "image_urls": "https://cdn.pixabay.com/photo/2016/05/26/16/27/baking-1417494_960_720.jpg"
+      }
+    ]
+  }
