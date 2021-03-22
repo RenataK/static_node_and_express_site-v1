@@ -2,8 +2,9 @@
 const express = require('express');
 
 //Require data.json file
-const { data } = require('./data/data.json');
-const { projects } = data;
+const { projects } = require('./data/data.json');
+//const { recipes } = require('../data/data.json'); if no 'data' in data.json
+//const { projects } = data;
 
 //Optionally - Require the path module which can be used when setting the absolute path in the express.static function.
 
@@ -16,11 +17,11 @@ app.use('/static', express.static('public'));
 app.set('view engine', 'pug');
 
 //Setting the routes
-
 //An "index" route (/) to render the "Home" page with the locals set to data.projects 
 app.get('/', (req, res) => {
-    res.locals = data.projects;
-    res.render('index');
+    //res.locals = data.projects;
+    res.render('index', { projects });
+    //res.render('index');
 });
 
 // An "about" route (/about) to render the "About" page 
@@ -34,12 +35,15 @@ app.get('/about', (req, res) => {
 //to the Pug template.
 
 app.get('/projects/id:', (req, res) => {
-    const { id } = req.params;
-    const templateData = { id };
-    res.render('project', templateData);
+    //const { id } = req.params;
+    const projectsId = req.params.id;
+    //const templateData = { id };
+    const project = projects.find( ({ id }) => id === +projectsId );
+    //res.render('project', {templateData});
+    res.render('project', { project });
 });
 
 //Starting the server. 
 app.listen(3000, () => {
-    console.log('The app is running on localhost:3000!');
+    console.log('The app is running on localhost:3000');
 });
