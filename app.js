@@ -40,7 +40,11 @@ app.get('/projects/id:', (req, res) => {
     //const templateData = { id };
     const project = projects.find( ({ id }) => id === +projectsId );
     //res.render('project', {templateData});
-    res.render('project', { project });
+    if (project) {
+        res.render('project', { project });
+    } else {
+        res.sendStatus(404);
+    }
 });
 
 //Starting the server. 
