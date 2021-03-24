@@ -2,9 +2,9 @@
 const express = require('express');
 
 //Require data.json file
-const { projects } = require('./data/data.json');
-//const { recipes } = require('../data/data.json'); if no 'data' in data.json
-//const { projects } = data;
+//const { projects } = require('./data/data.json');
+const { data } = require('./data/data.json'); //if no 'data' in data.json
+const { projects } = data;
 
 //Optionally - Require the path module which can be used when setting the absolute path in the express.static function.
 

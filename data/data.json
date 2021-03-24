@@ -8,7 +8,7 @@
           "technologies": ["JavaScript", "HTML", "CSS"],
           "live_link": "https://renatak.github.io/Random-Quote-Generator/",
           "github_link": "https://github.com/RenataK/Random-Quote-Generator",
-          "image_urls": "https://cdn.pixabay.com/photo/2016/05/26/16/27/baking-1417494_960_720.jpg"
+          "image_urls": "/static/images/Random-Quotes-Generator_pic1.jpg"
         },
         {
           "id": 2,
@@ -44,7 +44,7 @@
           "technologies": ["JavaScript", "HTML", "CSS"],
           "live_link": "https://renatak.github.io/public_api_request-v1/",
           "github_link": "https://github.com/RenataK/public_api_request-v1",
-          "image_urls": "file:///Users/LionHeart/Desktop/Public-API-Request/Screen%20Shot%202021-03-05%20at%2010.18.48%20AM.png"
+          "image_urls": ["https://cdn.pixabay.com/photo/2016/05/26/16/27/baking-1417494_960_720.jpg"]
         }
       ]
     }
