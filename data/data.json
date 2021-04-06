@@ -8,7 +8,7 @@
           "technologies": ["JavaScript", "HTML", "CSS"],
           "live_link": "https://renatak.github.io/Random-Quote-Generator/",
           "github_link": "https://github.com/RenataK/Random-Quote-Generator",
-          "image_urls": "/static/images/Random-Quotes-Generator_pic1.jpg"
+          "image_urls": ["/static/images/p1p1.jpg", "/static/images/p1p2.jpg"]
         },
         {
           "id": 2,
@@ -16,8 +16,8 @@
           "description": "Using pagination to enhance the usability of a web page.",
           "technologies": ["JavaScript", "HTML", "CSS"],
           "live_link": "https://renatak.github.io/List-pagination-and-filtering/",
-          "github_link": "https://github.com/RenataK/List-Pagination-and-Filtering/tree/master/list_pagination_and_filtering-v1",
-          "image_urls": "https://cdn.pixabay.com/photo/2016/05/26/16/27/baking-1417494_960_720.jpg"
+          "github_link": "https://github.com/RenataK/List-pagination-and-filtering",
+          "image_urls": ["/static/images/p2p1.jpg", "/static/images/p2p2.jpg", "/static/images/p2p3.jpg"]
         },
         {
           "id": 3,
@@ -26,7 +26,7 @@
           "technologies": ["JavaScript", "HTML", "CSS"],
           "live_link": "https://renatak.github.io/Interactive-Form/",
           "github_link": "https://github.com/RenataK/Interactive-Form",
-          "image_urls": "https://cdn.pixabay.com/photo/2016/05/26/16/27/baking-1417494_960_720.jpg"
+          "image_urls": ["/static/images/p3p1.jpg", "/static/images/p3p2.jpg", "/static/images/p3p3.jpg"]
         },
         {
           "id": 4,
@@ -35,16 +35,16 @@
           "technologies": ["JavaScript", "HTML", "CSS"],
           "live_link": "https://renatak.github.io/oop_game-v2/",
           "github_link": "https://github.com/RenataK/oop_game-v2",
-          "image_urls": ["https://cdn.pixabay.com/photo/2016/05/26/16/27/baking-1417494_960_720.jpg"]
+          "image_urls": ["/static/images/p4p1.jpg", "/static/images/p4p2.jpg", "/static/images/p4p3.jpg"]
         },
         {
           "id": 5,
           "project_name": "Public API Request",
-          "description": "Filtering/Displaying employees information based on their name",
-          "technologies": ["JavaScript", "HTML", "CSS"],
+          "description": "Filtering and displaying employees information based on their name",
+          "technologies": ["JavaScript", "HTML", "CSS", "AJAX"],
           "live_link": "https://renatak.github.io/public_api_request-v1/",
           "github_link": "https://github.com/RenataK/public_api_request-v1",
-          "image_urls": ["https://cdn.pixabay.com/photo/2016/05/26/16/27/baking-1417494_960_720.jpg"]
+          "image_urls": ["/static/images/p5p1.jpg", "/static/images/p5p2.jpg", "/static/images/p5p3.jpg"]
         }
       ]
     }

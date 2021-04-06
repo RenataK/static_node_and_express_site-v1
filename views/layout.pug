@@ -14,16 +14,16 @@ html(lang="en" dir="ltr")
       .sidebar-info-box
         br
         .thumbnail-box
-          img.thumbnail(src='/static/images/profile_pic.png' width="550" height="350" alt='')
+          img.thumbnail(src='/static/images/profile_pic.png', width='550' height='350' alt='')
         .dev-intro-box
 
-          //- Replace with your name
+          //- Name
           h5 Renata
 
-          //- Replace with description of who you are, what you do, and why you are so awesome
+          //- Description 
           p I am currently a student on my way to becoming a Full Stack JavaScript Developer. 
 
-          //- Add path from your '/about' route handler to the href below
+          //- Adding path from '/about' route handler to the href below
           a(href='/about') Learn More &rarr;
 
     .wrapper
@@ -31,7 +31,7 @@ html(lang="en" dir="ltr")
         .header-info-box
           button#menu-icon.menu-icon(type='button' data-toggle='my-info')
 
-          //- Replace with your name — this is for the mobile layout
+          //- Name —for the mobile layout
           span Renata
 
       block content

@@ -1,8 +1,6 @@
 
 'use strict';
 
-console.log('JavaScript file successfully served and linked!');
-
 /**
  * Handle mobile menu functionality to hide/reveal sidebar on mobile layouts
  */
