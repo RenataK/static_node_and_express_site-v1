@@ -24,6 +24,7 @@ router.get('/projects/:id', (req, res) => {
         res.render('project', { project });
     } 
      else {
+        console.log('Page you\'re looking for doesn\'t exist');
         res.status(404).render('not-found');
      }
 });
