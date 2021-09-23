@@ -45,6 +45,15 @@
           "live_link": "https://renatak.github.io/public_api_request-v1/",
           "github_link": "https://github.com/RenataK/public_api_request-v1",
           "image_urls": ["/static/images/p5p1.jpg", "/static/images/p5p2.jpg", "/static/images/p5p3.jpg"]
+        },
+        {
+          "id": 6,
+          "project_name": "React Gallery App",
+          "description": "Modern single-page application that's fast, modular, and in sync with current web development trends.",
+          "technologies": ["JavaScript", "HTML", "CSS", "JSX", "React"],
+          "live_link": "https://renatak.github.io/react_gallery_app123/",
+          "github_link": "https://github.com/RenataK/react_gallery_app123",
+          "image_urls": ["/static/images/p7p1.jpg", "/static/images/p7p2.jpg", "/static/images/p7p3.jpg"]
         }
       ]
     }
