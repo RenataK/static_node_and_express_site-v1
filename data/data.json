@@ -3,42 +3,33 @@
       "projects": [
         {
           "id": 1,
-          "project_name": "Random Quote Genorator",
-          "description": "An app that displays random quotes",
-          "technologies": ["JavaScript", "HTML", "CSS"],
-          "live_link": "https://renatak.github.io/Random-Quote-Generator/",
-          "github_link": "https://github.com/RenataK/Random-Quote-Generator",
-          "image_urls": ["/static/images/p1p1.jpg", "/static/images/p1p2.jpg"]
-        },
+          "project_name": "Rest API",
+          "description": "In this project, you’ll find the use of the popular Express web application framework and a SQL database used to create a REST API that lets users create, read, update, and delete items from a school database.",
+          "technologies": ["JavaScript", "HTML", "CSS", "REST API", "Express"],
+          "live_link": "",
+          "github_link": "",
+          "image_urls": ["/static/images/final.jpg"]
+        }, 
         {
           "id": 2,
-          "project_name": "List Pagination and Filtering",
-          "description": "Using pagination to enhance the usability of a web page.",
-          "technologies": ["JavaScript", "HTML", "CSS"],
-          "live_link": "https://renatak.github.io/List-pagination-and-filtering/",
-          "github_link": "https://github.com/RenataK/List-pagination-and-filtering",
-          "image_urls": ["/static/images/p2p1.jpg", "/static/images/p2p2.jpg", "/static/images/p2p3.jpg"]
-        },
+          "project_name": "SQL Library Manager",
+          "description": "A web application that includes pages to list, add, update, and delete books. With given HTML designs and an existing SQLite database, I've implemented a dynamic website using JavaScript, Node.js, Express, Pug, SQLite and the SQL ORM Sequelize.",
+          "technologies": ["JavaScript", "HTML", "CSS", "SQL"],
+          "live_link": "",
+          "github_link": "",
+          "image_urls": ["/static/images/final.jpg"]
+        }, 
         {
           "id": 3,
-          "project_name": "Interactive Form",
-          "description": "Register for Full Stack Conference!",
-          "technologies": ["JavaScript", "HTML", "CSS"],
-          "live_link": "https://renatak.github.io/Interactive-Form/",
-          "github_link": "https://github.com/RenataK/Interactive-Form",
-          "image_urls": ["/static/images/p3p1.jpg", "/static/images/p3p2.jpg", "/static/images/p3p3.jpg"]
-        },
+          "project_name": "React Gallery App",
+          "description": "Modern single-page application that's fast, modular, and in sync with current web development trends.",
+          "technologies": ["JavaScript", "HTML", "CSS", "JSX", "React"],
+          "live_link": "https://renatak.github.io/react_gallery_app123/",
+          "github_link": "https://github.com/RenataK/react_gallery_app123",
+          "image_urls": ["/static/images/p7p1.jpg", "/static/images/p7p2.jpg", "/static/images/p7p3.jpg"]
+        }, 
         {
           "id": 4,
-          "project_name": "Phrase Hunter",
-          "description": "Guess this Phrase!",
-          "technologies": ["JavaScript", "HTML", "CSS"],
-          "live_link": "https://renatak.github.io/oop_game-v2/",
-          "github_link": "https://github.com/RenataK/oop_game-v2",
-          "image_urls": ["/static/images/p4p1.jpg", "/static/images/p4p2.jpg", "/static/images/p4p3.jpg"]
-        },
-        {
-          "id": 5,
           "project_name": "Public API Request",
           "description": "Filtering and displaying employees information based on their name",
           "technologies": ["JavaScript", "HTML", "CSS", "AJAX"],
@@ -47,13 +38,40 @@
           "image_urls": ["/static/images/p5p1.jpg", "/static/images/p5p2.jpg", "/static/images/p5p3.jpg"]
         },
         {
+          "id": 5,
+          "project_name": "Phrase Hunter",
+          "description": "Guess this Phrase!",
+          "technologies": ["JavaScript", "HTML", "CSS"],
+          "live_link": "https://renatak.github.io/oop_game-v2/",
+          "github_link": "https://github.com/RenataK/oop_game-v2",
+          "image_urls": ["/static/images/p4p1.jpg", "/static/images/p4p2.jpg", "/static/images/p4p3.jpg"]
+        },
+        {
           "id": 6,
-          "project_name": "React Gallery App",
-          "description": "Modern single-page application that's fast, modular, and in sync with current web development trends.",
-          "technologies": ["JavaScript", "HTML", "CSS", "JSX", "React"],
-          "live_link": "https://renatak.github.io/react_gallery_app123/",
-          "github_link": "https://github.com/RenataK/react_gallery_app123",
-          "image_urls": ["/static/images/p7p1.jpg", "/static/images/p7p2.jpg", "/static/images/p7p3.jpg"]
+          "project_name": "Interactive Form",
+          "description": "Register for Full Stack Conference!",
+          "technologies": ["JavaScript", "HTML", "CSS"],
+          "live_link": "https://renatak.github.io/Interactive-Form/",
+          "github_link": "https://github.com/RenataK/Interactive-Form",
+          "image_urls": ["/static/images/p3p1.jpg", "/static/images/p3p2.jpg", "/static/images/p3p3.jpg"]
+        },
+        {
+          "id": 7,
+          "project_name": "List Pagination and Filtering",
+          "description": "Using pagination to enhance the usability of a web page.",
+          "technologies": ["JavaScript", "HTML", "CSS"],
+          "live_link": "https://renatak.github.io/List-pagination-and-filtering/",
+          "github_link": "https://github.com/RenataK/List-pagination-and-filtering",
+          "image_urls": ["/static/images/p2p1.jpg", "/static/images/p2p2.jpg", "/static/images/p2p3.jpg"]
+        },
+        {
+          "id": 8,
+          "project_name": "Random Quote Genorator",
+          "description": "An app that displays random quotes",
+          "technologies": ["JavaScript", "HTML", "CSS"],
+          "live_link": "https://renatak.github.io/Random-Quote-Generator/",
+          "github_link": "https://github.com/RenataK/Random-Quote-Generator",
+          "image_urls": ["/static/images/p1p1.jpg", "/static/images/p1p2.jpg"]
         }
       ]
     }
