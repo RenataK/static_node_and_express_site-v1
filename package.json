@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/RenataK/Static-Node.js-and-Express-Site.git"
   },
+  "engines": {
+    "node": "15.5.1"
+  },
   "author": "Renata K",
   "license": "MIT",
   "bugs": {

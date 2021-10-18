@@ -1,6 +1,8 @@
 //Require Express
 const express = require('express');
 
+let port = process.env.PORT || 3000;
+
 const app = express();
 
 //using a static route and the express.static method to serve the static files located in the public folder
