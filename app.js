@@ -1,7 +1,7 @@
 //Require Express
 const express = require('express');
 
-const port = process.env.PORT || 3000;
+let port = process.env.PORT || 3000;
 
 const app = express();
 
@@ -25,6 +25,6 @@ app.use((req, res, next) => {
   });
 
 //Starting the server. 
-app.listen(port, () => {
+app.listen(3000, () => {
     console.log('The app is running on localhost:3000');
 });
