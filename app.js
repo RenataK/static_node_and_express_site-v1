@@ -1,7 +1,7 @@
+let port = process.env.PORT || 3000;
+
 //Require Express
 const express = require('express');
-
-const port = process.env.PORT || 3000;
 
 const app = express();
 
