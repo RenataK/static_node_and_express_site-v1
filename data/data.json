@@ -8,7 +8,7 @@
           "technologies": ["JavaScript", "HTML", "CSS", "REST API", "Express"],
           "live_link": "",
           "github_link": "",
-          "image_urls": ["/static/images/final.jpg"]
+          "image_urls": ["/static/images/Work-in-Progress.gif"]
         }, 
         {
           "id": 2,
@@ -17,7 +17,7 @@
           "technologies": ["JavaScript", "HTML", "CSS", "SQL"],
           "live_link": "",
           "github_link": "",
-          "image_urls": ["/static/images/final.jpg"]
+          "image_urls": ["/static/images/Work-in-Progress.gif"]
         }, 
         {
           "id": 3,
