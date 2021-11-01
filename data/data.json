@@ -8,7 +8,7 @@
           "technologies": ["JavaScript", "HTML", "CSS", "REST API", "Express"],
           "live_link": "",
           "github_link": "",
-          "image_urls": ["/static/images/Work-in-Progress.gif"]
+          "image_urls": ["/static/images/Work-in-progress-.jpeg"]
         }, 
         {
           "id": 2,
@@ -17,61 +17,61 @@
           "technologies": ["JavaScript", "HTML", "CSS", "SQL"],
           "live_link": "",
           "github_link": "",
-          "image_urls": ["/static/images/Work-in-Progress.gif"]
+          "image_urls": ["/static/images/Work-in-progress-.jpeg"]
         }, 
         {
           "id": 3,
           "project_name": "React Gallery App",
-          "description": "Modern single-page application that's fast, modular, and in sync with current web development trends.",
+          "description": "Modern single-page application that's fast, modular, and in sync with current web development trends. Working with React supportive tools like the Create React App and React Router modules, I was able to create a search app that gets the requested images to be displayed, but also provides an error when requested pages don't exist.",
           "technologies": ["JavaScript", "HTML", "CSS", "JSX", "React"],
           "live_link": "https://renatak.github.io/react_gallery_app123/",
           "github_link": "https://github.com/RenataK/react_gallery_app123",
-          "image_urls": ["/static/images/p7p1.jpg", "/static/images/p7p2.jpg", "/static/images/p7p3.jpg"]
+          "image_urls": ["/static/images/main7.jpg", "/static/images/p7p1.jpg", "/static/images/p7p2.jpg", "/static/images/p7p3.jpg"]
         }, 
         {
           "id": 4,
           "project_name": "Public API Request",
-          "description": "Filtering and displaying employees information based on their name",
+          "description": "Filtering and displaying employees information based on their name for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. With the help of Random User Generator API, I was able to make an API requests, and asynchronously handle the data that's returned from requests to display it in an app.",
           "technologies": ["JavaScript", "HTML", "CSS", "AJAX"],
           "live_link": "https://renatak.github.io/public_api_request-v1/",
           "github_link": "https://github.com/RenataK/public_api_request-v1",
-          "image_urls": ["/static/images/p5p1.jpg", "/static/images/p5p2.jpg", "/static/images/p5p3.jpg"]
+          "image_urls": ["/static/images/main5.jpg", "/static/images/p5p1.jpg", "/static/images/p5p2.jpg", "/static/images/p5p3.jpg"]
         },
         {
           "id": 5,
           "project_name": "Phrase Hunter",
-          "description": "Guess this Phrase!",
+          "description": "Guess this Phrase! A browser-based, word guessing game: 'Phrase Hunter.' With the use of JavaScript and OOP, (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. Can they guess the phrase before they run out of attempts?",
           "technologies": ["JavaScript", "HTML", "CSS"],
           "live_link": "https://renatak.github.io/oop_game-v2/",
           "github_link": "https://github.com/RenataK/oop_game-v2",
-          "image_urls": ["/static/images/p4p1.jpg", "/static/images/p4p2.jpg", "/static/images/p4p3.jpg"]
+          "image_urls": ["/static/images/main4.jpg", "/static/images/p4p1.jpg", "/static/images/p4p2.jpg", "/static/images/p4p3.jpg"]
         },
         {
           "id": 6,
           "project_name": "Interactive Form",
-          "description": "Register for Full Stack Conference!",
+          "description": "Register for Full Stack Conference! In this project you'll find the use of customized and conditional behavior and interactivity along with validating user input and providing helpful error messages when the user enters invalid information into the form fields. This is tremendously valuable since forms are a major aspect of most web sites and web applications,",
           "technologies": ["JavaScript", "HTML", "CSS"],
           "live_link": "https://renatak.github.io/Interactive-Form/",
           "github_link": "https://github.com/RenataK/Interactive-Form",
-          "image_urls": ["/static/images/p3p1.jpg", "/static/images/p3p2.jpg", "/static/images/p3p3.jpg"]
+          "image_urls": ["/static/images/main3.jpg", "/static/images/p3p1.jpg", "/static/images/p3p2.jpg", "/static/images/p3p3.jpg"]
         },
         {
           "id": 7,
           "project_name": "List Pagination and Filtering",
-          "description": "Using pagination to enhance the usability of a web page.",
+          "description": "This project contains pagination to enhance the usability of a web page using JavaScript to display 10 names at a time. Adding a navigation system -- a series of links at the bottom of the page -- to let users click through the other student entries, 10 at a time.",
           "technologies": ["JavaScript", "HTML", "CSS"],
           "live_link": "https://renatak.github.io/List-pagination-and-filtering/",
           "github_link": "https://github.com/RenataK/List-pagination-and-filtering",
-          "image_urls": ["/static/images/p2p1.jpg", "/static/images/p2p2.jpg", "/static/images/p2p3.jpg"]
+          "image_urls": ["/static/images/main2.jpg", "/static/images/p2p1.jpg", "/static/images/p2p2.jpg", "/static/images/p2p3.jpg"]
         },
         {
           "id": 8,
           "project_name": "Random Quote Genorator",
-          "description": "An app that displays random quotes",
+          "description": "A simple app that displays random quotes when clicking 'Show another quote'. This project was a fun and effective way to practice and understand fundamental JavaScript skills while also creating a simple interactive portfolio piece to showcase.",
           "technologies": ["JavaScript", "HTML", "CSS"],
           "live_link": "https://renatak.github.io/Random-Quote-Generator/",
           "github_link": "https://github.com/RenataK/Random-Quote-Generator",
-          "image_urls": ["/static/images/p1p1.jpg", "/static/images/p1p2.jpg"]
+          "image_urls": ["/static/images/main1.jpg", "/static/images/p1p2.jpg", "/static/images/p1p1-1.jpg"]
         }
       ]
     }

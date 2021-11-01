@@ -31,12 +31,12 @@ block content
     .project-img-box.box
 
       //- Dynamically adding project images, and add descriptions to the alt attributes
-      if (project.image_urls[0])
-        img.project-img(src=`${project.image_urls[0]}`, width='1200' height='550' alt='img_one')
       if (project.image_urls[1])
-        img.project-img(src=`${project.image_urls[1]}`, width='1200' height='550' alt='img_two')
+        img.project-img(src=`${project.image_urls[1]}`, alt='img_one')
       if (project.image_urls[2])
-        img.project-img(src=`${project.image_urls[2]}`, width='1200' height='550' alt='img_three')
+        img.project-img(src=`${project.image_urls[2]}`, alt='img_two')
+      if (project.image_urls[3])
+        img.project-img(src=`${project.image_urls[3]}`, alt='img_three')
 
     nav.nav
       a(href='/')
